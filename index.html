@@ -13,6 +13,8 @@
   <meta property="og:locale" content="en_AU">
   <meta name="geo.region" content="AU-NSW">
   <meta name="geo.placename" content="Campbelltown">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="assets/styles.css">
   <script type="application/ld+json">
   {
@@ -59,6 +61,7 @@
 
   <main id="top">
     <section class="hero">
+      <div class="hero-floor" aria-hidden="true"></div>
       <div class="container hero-grid">
         <div>
           <div class="eyebrow">Campbelltown · Macarthur epoxy flooring</div>
@@ -94,30 +97,38 @@
 
     <section id="services">
       <div class="container">
-        <div class="section-head">
+        <div class="section-head reveal">
           <h2>Epoxy flooring services across Campbelltown &amp; Macarthur</h2>
           <p>Residential garages through light industrial slabs — enquire once and get matched to a local coating specialist.</p>
         </div>
         <div class="cards">
-          <article class="card">
-            <div class="card-icon" aria-hidden="true">▣</div>
-            <h3>Garage floor epoxy</h3>
-            <p>Oil-resistant, easy-clean garage coatings for Campbelltown and surrounding suburbs — solid colour or decorative flake.</p>
+          <article class="card reveal">
+            <div class="floor-sample sample-solid" aria-hidden="true"></div>
+            <div class="card-body">
+              <h3>Garage floor epoxy</h3>
+              <p>Oil-resistant, easy-clean garage coatings for Campbelltown and surrounding suburbs — solid colour or decorative flake.</p>
+            </div>
           </article>
-          <article class="card">
-            <div class="card-icon" aria-hidden="true">▦</div>
-            <h3>Warehouse &amp; workshop</h3>
-            <p>Durable epoxy for sheds, workshops and light commercial slabs across the Macarthur region.</p>
+          <article class="card reveal">
+            <div class="floor-sample sample-metallic" aria-hidden="true"></div>
+            <div class="card-body">
+              <h3>Warehouse &amp; workshop</h3>
+              <p>Durable epoxy for sheds, workshops and light commercial slabs across the Macarthur region.</p>
+            </div>
           </article>
-          <article class="card">
-            <div class="card-icon" aria-hidden="true">▢</div>
-            <h3>Patio &amp; outdoor concrete</h3>
-            <p>UV-aware outdoor epoxy options for patios and covered outdoor areas — suitability confirmed after site assessment.</p>
+          <article class="card reveal">
+            <div class="floor-sample sample-colour" aria-hidden="true"></div>
+            <div class="card-body">
+              <h3>Patio &amp; outdoor concrete</h3>
+              <p>UV-aware outdoor epoxy options for patios and covered outdoor areas — suitability confirmed after site assessment.</p>
+            </div>
           </article>
-          <article class="card">
-            <div class="card-icon" aria-hidden="true">◈</div>
-            <h3>Flake &amp; decorative systems</h3>
-            <p>Multi-flake colour blends that hide dust and tyre marks — popular for residential garages in new Macarthur estates.</p>
+          <article class="card reveal">
+            <div class="floor-sample sample-flake" aria-hidden="true"></div>
+            <div class="card-body">
+              <h3>Flake &amp; decorative systems</h3>
+              <p>Multi-flake colour blends that hide dust and tyre marks — popular for residential garages in new Macarthur estates.</p>
+            </div>
           </article>
         </div>
       </div>
@@ -125,12 +136,12 @@
 
     <section id="areas" class="alt">
       <div class="container">
-        <div class="section-head">
+        <div class="section-head reveal">
           <h2>Local coverage: Campbelltown, Macarthur, Camden &amp; Liverpool fringe</h2>
           <p>This is an enquiry site for epoxy flooring in south-west Sydney. We are not the installer — with your consent we introduce you to a local contractor who can inspect and quote.</p>
         </div>
         <div class="local-grid">
-          <div class="local-panel">
+          <div class="local-panel reveal">
             <h3>Built for Macarthur concrete conditions</h3>
             <p>
               South-west Sydney slabs see heat, dust and vehicle traffic. A proper epoxy job usually starts with moisture checks,
@@ -153,7 +164,7 @@
               <span class="area">Liverpool fringe</span>
             </div>
           </div>
-          <div class="local-panel">
+          <div class="local-panel reveal">
             <h3>How this site works</h3>
             <p>We capture your project details and, only if you tick consent, share them with a local epoxy installer so they can contact you about a quote.</p>
             <ul>
@@ -169,28 +180,28 @@
 
     <section id="process">
       <div class="container">
-        <div class="section-head">
+        <div class="section-head reveal">
           <h2>Simple path from enquiry to on-site quote</h2>
           <p>Three steps. No obligation until you speak with the installer.</p>
         </div>
-        <div class="steps">
-          <div class="step">
-            <div class="step-num">1</div>
-            <div>
+        <div class="timeline" role="list">
+          <div class="step reveal" role="listitem">
+            <div class="step-num" aria-hidden="true">1</div>
+            <div class="step-body">
               <h3>Tell us about the floor</h3>
               <p>Suburb, floor type (garage, warehouse, patio) and a short note on size or issues like oil staining.</p>
             </div>
           </div>
-          <div class="step">
-            <div class="step-num">2</div>
-            <div>
+          <div class="step reveal" role="listitem">
+            <div class="step-num" aria-hidden="true">2</div>
+            <div class="step-body">
               <h3>Consent to be contacted</h3>
               <p>Tick the box so we can pass your details to a local installer. No tick — no share.</p>
             </div>
           </div>
-          <div class="step">
-            <div class="step-num">3</div>
-            <div>
+          <div class="step reveal" role="listitem">
+            <div class="step-num" aria-hidden="true">3</div>
+            <div class="step-body">
               <h3>Local installer follows up</h3>
               <p>They confirm scope, prep and pricing. You decide whether to proceed.</p>
             </div>
@@ -201,38 +212,48 @@
 
     <section id="faq" class="alt">
       <div class="container">
-        <div class="section-head">
+        <div class="section-head reveal">
           <h2>Epoxy flooring FAQ — Campbelltown &amp; Macarthur</h2>
           <p>Straight answers. Final advice always comes from the installer after seeing your slab.</p>
         </div>
         <div class="faq">
-          <details open>
+          <details class="reveal" open>
             <summary>Are you the epoxy installer?</summary>
-            <p>No. This website is a local enquiry page. With your consent, your contact details may be passed to a local epoxy flooring installer who can quote and carry out the work.</p>
+            <div class="faq-answer">
+              <p>No. This website is a local enquiry page. With your consent, your contact details may be passed to a local epoxy flooring installer who can quote and carry out the work.</p>
+            </div>
           </details>
-          <details>
+          <details class="reveal">
             <summary>How much does garage floor epoxy cost in Campbelltown?</summary>
-            <p>Price depends on square metres, prep needed, moisture, and whether you choose a solid coat or flake system. Submit an enquiry with your suburb and approximate size for a local quote — we do not publish fixed prices here.</p>
+            <div class="faq-answer">
+              <p>Price depends on square metres, prep needed, moisture, and whether you choose a solid coat or flake system. Submit an enquiry with your suburb and approximate size for a local quote — we do not publish fixed prices here.</p>
+            </div>
           </details>
-          <details>
+          <details class="reveal">
             <summary>Do you cover Camden and Liverpool?</summary>
-            <p>Yes — enquiries are welcome from Camden, Narellan, Oran Park and the Liverpool fringe, as well as core Campbelltown / Macarthur suburbs. Coverage for a specific address is confirmed by the installer.</p>
+            <div class="faq-answer">
+              <p>Yes — enquiries are welcome from Camden, Narellan, Oran Park and the Liverpool fringe, as well as core Campbelltown / Macarthur suburbs. Coverage for a specific address is confirmed by the installer.</p>
+            </div>
           </details>
-          <details>
+          <details class="reveal">
             <summary>What about outdoor patios in NSW sun?</summary>
-            <p>Some epoxy systems handle covered outdoor areas better than others. UV and slip requirements matter. Flag patio / outdoor in the form so the installer can recommend a suitable product or alternative.</p>
+            <div class="faq-answer">
+              <p>Some epoxy systems handle covered outdoor areas better than others. UV and slip requirements matter. Flag patio / outdoor in the form so the installer can recommend a suitable product or alternative.</p>
+            </div>
           </details>
-          <details>
+          <details class="reveal">
             <summary>How is my privacy handled?</summary>
-            <p>We only use your details to respond to your enquiry. If you tick the consent box, those details may be shared with a local installer for quoting. See the privacy note in the footer for more.</p>
+            <div class="faq-answer">
+              <p>We only use your details to respond to your enquiry. If you tick the consent box, those details may be shared with a local installer for quoting. See the privacy note in the footer for more.</p>
+            </div>
           </details>
         </div>
       </div>
     </section>
 
-    <section id="quote">
+    <section id="quote" class="quote-section">
       <div class="container">
-        <div class="section-head">
+        <div class="section-head reveal">
           <h2>Request an epoxy flooring quote</h2>
           <p>Campbelltown, Macarthur, Camden &amp; Liverpool fringe. Takes about a minute.</p>
         </div>
@@ -254,7 +275,7 @@
                   <input type="tel" name="phone" autocomplete="tel" placeholder="04xx xxx xxx" inputmode="tel">
                 </label>
               </div>
-              <div class="form-grid two" style="margin-top:0.9rem">
+              <div class="form-grid two" style="margin-top:0.95rem">
                 <label>
                   Email *
                   <input type="email" name="email" autocomplete="email" required placeholder="you@example.com">
@@ -264,7 +285,7 @@
                   <input type="text" name="suburb" required placeholder="e.g. Campbelltown, Oran Park">
                 </label>
               </div>
-              <div class="form-grid" style="margin-top:0.9rem">
+              <div class="form-grid" style="margin-top:0.95rem">
                 <label>
                   Floor type *
                   <select name="floor_type" required>
@@ -285,13 +306,13 @@
                   <span>I agree that my contact details may be passed to a local epoxy flooring installer so they can contact me about this enquiry. *</span>
                 </label>
               </div>
-              <div style="margin-top:1rem">
+              <div style="margin-top:1.1rem">
                 <button class="btn btn-primary btn-block" type="submit">Send enquiry</button>
               </div>
               <p class="form-note">By submitting you also acknowledge the privacy note below. This site is powered by local installers — we do not claim to be the contractor.</p>
             </form>
           </div>
-          <aside class="aside-note">
+          <aside class="aside-note reveal">
             <h3>What happens next</h3>
             <p>A local installer reviews your suburb and floor type, then contacts you to discuss prep, colours and pricing.</p>
             <ul>
@@ -299,11 +320,9 @@
               <li>Consent required before details are shared</li>
               <li>Best for Campbelltown / Macarthur projects</li>
             </ul>
-            <div class="cta-band" style="margin-top:1.25rem; padding:1rem">
-              <div>
-                <h2 style="font-size:1.05rem; margin:0 0 0.25rem">Prefer to talk first?</h2>
-                <p style="font-size:0.88rem">Phone tracking number coming soon. Use the form for now.</p>
-              </div>
+            <div class="aside-cta">
+              <h2>Prefer to talk first?</h2>
+              <p>Phone tracking number coming soon. Use the form for now.</p>
             </div>
           </aside>
         </div>
@@ -312,7 +331,7 @@
 
     <section>
       <div class="container">
-        <div class="cta-band">
+        <div class="cta-band reveal">
           <div>
             <h2>Ready for a tougher garage or warehouse floor?</h2>
             <p>Epoxy flooring enquiries for Campbelltown, Macarthur, Camden and nearby suburbs.</p>
