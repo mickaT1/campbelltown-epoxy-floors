@@ -67,7 +67,7 @@ Optional later: Netlify Forms, Cloudflare Workers + email, or a small backend.
 
 1. Register recommended `.com.au` (if eligibility OK) and deploy this folder.
 2. Google Business Profile only if accurate (enquiry service / area served — no fake street address).
-3. Add real project photos (with permission) replacing colour-block placeholders.
+3. Replace stock photos with real local project photos (with permission) when available.
 4. Publish 2–3 thin-safe local pages later (e.g. `/garage-epoxy-campbelltown/`, `/oran-park/`) — not doorway spam.
 5. Build citations: True Local / Hipages profile links only when the installer relationship is live.
 6. Add call tracking number when ready; keep phone optional until then.
@@ -76,6 +76,11 @@ Optional later: Netlify Forms, Cloudflare Workers + email, or a small backend.
 ## Compliance reminders
 
 - No fake reviews, no invented ABN/phone/address.
-- Footer: `ABN: [pending]` until you have one.
+- Footer: ABN **91 355 341 661**.
 - Privacy + consent copy must stay on the form.
 - Wording: **Powered by local installers** — do not claim to be the licensed contractor.
+
+
+## Anti-AI redesign (2026-10-25)
+
+Site restyled to a plain light local-business look (system fonts, navy header, safety-orange accent, real stock photos). Avoid reintroducing dark neon SaaS / glassmorphism / Outfit–Inter fonts / chip rows.
