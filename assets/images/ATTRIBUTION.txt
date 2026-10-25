@@ -1,25 +1,34 @@
-Photo credits (Australian sources only; illustrative stock — not local Campbelltown jobs):
+Photo credits (illustrative stock — not local Campbelltown / Macarthur jobs).
+Found via Google/Bing Image search with Creative Commons / usage-rights filters where possible.
 
-1. warehouse-floor.jpg
-   "Polished concrete floor, 1960s office building in Mascot, NSW, 2022"
-   Author: Kgbo — Licence: CC BY-SA 4.0
-   Location: Mascot, New South Wales, Australia
-   https://commons.wikimedia.org/wiki/File:Polished_concrete_floor,_1960s_office_building_in_Mascot,_NSW,_2022.jpg
+1. hero-flake.jpg (hero)
+   Query: "flake epoxy floor Australia" / "epoxy garage floor Sydney" (Bing/Google CC filter)
+   "Epoxy Flake Garage Floor- Cape Fear Concrete Coatings- Leland"
+   Author: Decorative Concrete Kingdom (theconcreteprotector.com) — Licence: CC BY 2.0
+   https://www.flickr.com/photos/38041294@N05/28000056098
+   Note: no clearly Australian flake-epoxy photo found under CC; this is the best CC hit from the results.
 
-2. warehouse-interior-au.jpg
+2. flake-garage.jpg
+   Same source as hero (service thumbnail).
+
+3. warehouse-interior-au.jpg
+   Query: "warehouse epoxy floor Australia" / Sydney warehouse
    "Tempe Tram Depot Interior"
    Author: Hpeterswald — Licence: CC BY-SA 3.0
    Location: Tempe, Sydney, New South Wales, Australia
    https://commons.wikimedia.org/wiki/File:Tempe_Tram_Depot_Interior.jpg
 
-3. epoxy-application.jpg
-   "Honed and polished concrete"
-   Author: Multiblast122 — Licence: CC BY-SA 4.0
-   Location: Queensland, Australia (Multiblast — polished concrete / industrial epoxy coatings)
-   https://commons.wikimedia.org/wiki/File:Honed_and_polished_concrete.jpg
+4. epoxy-application.jpg
+   Query: "polished concrete floor Sydney" / "epoxy garage floor Sydney"
+   "Polished concrete floor, 1960s office building in Mascot, NSW, 2022"
+   Author: Kgbo — Licence: CC BY-SA 4.0
+   Location: Mascot, New South Wales, Australia
+   https://commons.wikimedia.org/wiki/File:Polished_concrete_floor,_1960s_office_building_in_Mascot,_NSW,_2022.jpg
 
-Local CSS colour panels (not photographs):
-- Garage flake finish and resinous decorative slots use on-page CSS panels
-  (no free Australian flake-epoxy photograph found that was clearly AU-located).
+5. flake-decorative.jpg
+   Query: "flake epoxy floor Australia" (Bing/Google CC filter)
+   "Epoxy Flake Garage Floor- Cape Fear Concrete Coatings- Wilmington"
+   Author: Decorative Concrete Kingdom (theconcreteprotector.com) — Licence: CC BY 2.0
+   https://www.flickr.com/photos/38041294@N05/42088934912
 
 These are illustrative only — not photos of completed Campbelltown / Macarthur jobs.
