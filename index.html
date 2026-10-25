@@ -185,16 +185,21 @@
         <p class="intro">Campbelltown, Macarthur, Camden &amp; Liverpool fringe. Takes about a minute — a local installer will follow up.</p>
 
         <div id="form-success" class="form-success" role="status" aria-live="polite" hidden>
-          Thanks — your enquiry is ready. Connect a form endpoint (Formspree / Getform) to deliver it, or check the browser console in preview mode.
+          Thanks — your enquiry has been sent. A local installer will follow up soon.
         </div>
 
-        <form id="lead-form" class="contact-form" action="#" method="POST" novalidate>
+        <form id="lead-form" class="contact-form" action="https://formsubmit.co/micka.lewis3@gmail.com" method="POST" novalidate>
+          <input type="hidden" name="_subject" value="New epoxy quote — Campbelltown Epoxy Floors">
+          <input type="hidden" name="_template" value="table">
+          <input type="hidden" name="_captcha" value="false">
+          <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">
+          <input type="hidden" name="_next" value="https://mickat1.github.io/campbelltown-epoxy-floors/#quote">
           <p>
             <label for="name">Full name <span class="req">*</span></label>
             <input id="name" type="text" name="name" autocomplete="name" required>
           </p>
           <p>
-            <label for="phone">Phone <span class="optional">(optional for now)</span></label>
+            <label for="phone">Phone <span class="optional">(optional)</span></label>
             <input id="phone" type="tel" name="phone" autocomplete="tel" inputmode="tel" placeholder="04xx xxx xxx">
           </p>
           <p>
