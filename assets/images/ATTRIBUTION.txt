@@ -1,23 +1,25 @@
-Photo credits (stock; not local Campbelltown jobs):
+Photo credits (Australian sources only; illustrative stock — not local Campbelltown jobs):
 
-1. flake-epoxy.jpg
-   "Flake epoxy flooring medical centre Haringey London England"
-   Author: Acabashi — Licence: CC BY-SA 4.0
-   https://commons.wikimedia.org/wiki/File:Flake_epoxy_flooring_medical_centre_Haringey_London_England.jpg
+1. warehouse-floor.jpg
+   "Polished concrete floor, 1960s office building in Mascot, NSW, 2022"
+   Author: Kgbo — Licence: CC BY-SA 4.0
+   Location: Mascot, New South Wales, Australia
+   https://commons.wikimedia.org/wiki/File:Polished_concrete_floor,_1960s_office_building_in_Mascot,_NSW,_2022.jpg
 
-2. epoxy-application.jpg
-   "Blue Grass Chemical Agent-Destruction Pilot Plant … Epoxy Floor Coating"
-   Author: PEO ACWA (Flickr) — Licence: CC BY 2.0
-   https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Munitions_Demilitarization_Building_Epoxy_Floor_Coating_(4362577157).jpg
+2. warehouse-interior-au.jpg
+   "Tempe Tram Depot Interior"
+   Author: Hpeterswald — Licence: CC BY-SA 3.0
+   Location: Tempe, Sydney, New South Wales, Australia
+   https://commons.wikimedia.org/wiki/File:Tempe_Tram_Depot_Interior.jpg
 
-3. resinous-epoxy.jpg
-   "123 Resinous Epoxy Floor in Ball Park"
-   Author: Decorative Concrete Kingdom — Licence: CC BY 2.0
-   https://commons.wikimedia.org/wiki/File:123_Resinous_Epoxy_Floor_in_Ball_Park.jpg
+3. epoxy-application.jpg
+   "Honed and polished concrete"
+   Author: Multiblast122 — Licence: CC BY-SA 4.0
+   Location: Queensland, Australia (Multiblast — polished concrete / industrial epoxy coatings)
+   https://commons.wikimedia.org/wiki/File:Honed_and_polished_concrete.jpg
 
-4. warehouse-floor.jpg
-   Warehouse / industrial floor interior
-   Source: Pexels (free to use) — https://www.pexels.com/photo/209251/
+Local CSS colour panels (not photographs):
+- Garage flake finish and resinous decorative slots use on-page CSS panels
+  (no free Australian flake-epoxy photograph found that was clearly AU-located).
 
-
-These are illustrative stock photos only — not photos of completed Campbelltown / Macarthur jobs.
+These are illustrative only — not photos of completed Campbelltown / Macarthur jobs.
