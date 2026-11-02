@@ -538,19 +538,19 @@
           Thanks — your enquiry has been sent. A local installer will follow up soon.
         </div>
 
-        <form id="lead-form" class="contact-form" action="https://formsubmit.co/micka.lewis3@gmail.com" method="POST" novalidate>
+        <form id="lead-form" class="contact-form" action="https://formsubmit.co/micka.lewis3@gmail.com" method="POST">
           <input type="hidden" name="_subject" value="New epoxy quote — Campbelltown Epoxy Floors">
           <input type="hidden" name="_template" value="table">
           <input type="hidden" name="_captcha" value="false">
           <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">
-          <input type="hidden" name="_next" value="https://mickat1.github.io/campbelltown-epoxy-floors/#quote">
+          <input type="hidden" name="_next" value="https://mickat1.github.io/campbelltown-epoxy-floors/?sent=1#quote">
           <p>
             <label for="name">Full name <span class="req">*</span></label>
             <input id="name" type="text" name="name" autocomplete="name" required>
           </p>
           <p>
             <label for="phone">Phone <span class="optional">(optional)</span></label>
-            <input id="phone" type="tel" name="phone" autocomplete="tel" inputmode="tel" placeholder="04xx xxx xxx">
+            <input id="phone" type="tel" name="phone" autocomplete="tel" inputmode="tel" placeholder="04xx xxx xxx" pattern="[0-9 +()]{8,16}" title="Australian phone number, e.g. 0412 345 678">
           </p>
           <p>
             <label for="email">Email <span class="req">*</span></label>
@@ -558,7 +558,7 @@
           </p>
           <p>
             <label for="suburb">Suburb <span class="req">*</span></label>
-            <input id="suburb" type="text" name="suburb" required placeholder="e.g. Campbelltown, Oran Park">
+            <input id="suburb" type="text" name="suburb" autocomplete="address-level2" required placeholder="e.g. Campbelltown, Oran Park">
           </p>
           <p>
             <label for="floor_type">Floor type <span class="req">*</span></label>
@@ -585,7 +585,7 @@
             <button class="btn" type="submit">Send enquiry</button>
           </p>
           <p class="form-note">
-            Privacy details are in the footer.
+            Fields marked * are required. Privacy details are in the <a href="#privacy">footer</a>.
           </p>
         </form>
       </div>
@@ -600,7 +600,7 @@
         Enquiries are passed to a local installer with your consent.
       </p>
 
-      <div class="privacy">
+      <div class="privacy" id="privacy">
         <strong>Privacy note</strong>
         <p>
           Contact details you submit (name, email, phone if provided, suburb and project notes)
@@ -609,6 +609,15 @@
           We do not sell your information for unrelated marketing. To update or withdraw consent,
           email the address that replies to your enquiry once form delivery is connected.
         </p>
+      </div>
+
+      <div class="photo-credits">
+        <strong>Photo credits</strong> (illustrative stock, not local job photos)
+        <ul>
+          <li>&ldquo;<a href="https://commons.wikimedia.org/wiki/File:Tempe_Tram_Depot_Interior.jpg" rel="nofollow noopener">Tempe Tram Depot Interior</a>&rdquo; by Hpeterswald, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="license nofollow noopener">CC BY-SA 3.0</a></li>
+          <li>&ldquo;<a href="https://commons.wikimedia.org/wiki/File:Polished_concrete_floor,_1960s_office_building_in_Mascot,_NSW,_2022.jpg" rel="nofollow noopener">Polished concrete floor, Mascot NSW</a>&rdquo; by Kgbo, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license nofollow noopener">CC BY-SA 4.0</a></li>
+        </ul>
+        <p>Other photos: Kevin Chuang via Pexels (Pexels License).</p>
       </div>
 <p class="meta">
         <span>ABN: 91 355 341 661</span>

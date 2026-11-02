@@ -470,3 +470,9 @@ details p {
 
 /* Call-tracking placeholder */
 .call-cta { margin: 0.75rem 0 0; font-size: 0.95rem; }
+
+.photo-credits { font-size: 0.8rem; opacity: 0.85; margin: 1rem 0; }
+.photo-credits ul { margin: 0.3rem 0; padding-left: 1.1rem; }
+.photo-credits a { color: inherit; }
+.contact-form input:invalid:not(:placeholder-shown), .contact-form input:user-invalid { border-color: #b3261e; }
+.contact-form button[disabled] { opacity: 0.6; cursor: wait; }
