@@ -467,3 +467,6 @@ details p {
 @media (min-width: 720px) {
   .service .photo-panel { height: 130px; }
 }
+
+/* Call-tracking placeholder */
+.call-cta { margin: 0.75rem 0 0; font-size: 0.95rem; }
